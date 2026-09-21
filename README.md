@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arshad 👋
 
-<!--
-**arshad78-ux/arshad78-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and AI Specialist focused on Python development, machine learning pipelines, and strict quality assurance. My core expertise lies in building clean, deterministic software backed by rigorous automated testing.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+*   **Languages:** Python, SQL
+*   **Frameworks & Libraries:** Pytest, Scikit-learn, Pandas, PyTorch
+*   **Tools & Workflows:** Git, GitHub Actions (CI/CD), Docker, Labelbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+*   Develop modular, PEP 8 compliant Python architecture for backend systems.
+*   Build out deterministic test suites to ensure strict CI pipeline coverage.
+*   Execute complex data workflows, including semantic segmentation and object detection.
+
+## 📫 Let's Connect
+*   **Freelancer:** [Add your Freelancer.com profile link]
+*   **LinkedIn:** [Add your LinkedIn profile link]
