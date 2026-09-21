@@ -1,16 +1,19 @@
 # Hi, I'm Arshad 👋
 
-I am a Software Engineer and AI Specialist focused on Python development, machine learning pipelines, and strict quality assurance. My core expertise lies in building clean, deterministic software backed by rigorous automated testing.
+I am an AI Data Labeling Specialist and Multilingual Evaluator with a B.Sc. in Computer Science. My expertise bridges the gap between raw data and high-performing machine learning models, specializing in computer vision annotation, LLM response evaluation, RLHF alignment, and search relevance across English, Hindi, Urdu, and Marathi.
 
-## 🛠 Tech Stack
-*   **Languages:** Python, SQL
-*   **Frameworks & Libraries:** Pytest, Scikit-learn, Pandas, PyTorch
-*   **Tools & Workflows:** Git, GitHub Actions (CI/CD), Docker, Labelbox
+## 🛠️ Tools & Expertise
+
+* **AI Alignment & Evaluation:** RLHF, Adversarial Red Teaming, Prompt Engineering, Agentic Workflow Testing
+* **Data Annotation Platforms:** Labelbox, Scale AI, CVAT, Supervisely, Prodigy, VGG Image Annotator
+* **Languages & Foundations:** Python, C#, Java, DBMS, Git/GitHub
+* **Linguistics:** English, Hindi, Urdu, Marathi (Native/Fluent)
 
 ## 🚀 What I Do
-*   Develop modular, PEP 8 compliant Python architecture for backend systems.
-*   Build out deterministic test suites to ensure strict CI pipeline coverage.
-*   Execute complex data workflows, including semantic segmentation and object detection.
+
+* **Generative AI & LLM Alignment:** Evaluate conversational model outputs using RLHF criteria, ranking response pairs on truthfulness, helpfulness, and safety. Conduct adversarial red teaming to identify bias and hallucinations.
+* **Computer Vision Annotation:** Execute precision 2D/3D bounding boxes, polygon segmentation, semantic masks, and LIDAR point-cloud tagging for autonomous vehicles and generative vision models.
+* **Search Relevance & NLP:** Analyze complex intent matching and audit multilingual cross-cultural NLP training datasets for semantic and grammatical accuracy.
 
 ## 📫 Let's Connect
 *   **Freelancer:** [Arshad Rahmany](https://www.freelancer.in/u/ArshadRahmany)
