@@ -13,5 +13,5 @@ I am a Software Engineer and AI Specialist focused on Python development, machin
 *   Execute complex data workflows, including semantic segmentation and object detection.
 
 ## 📫 Let's Connect
-*   **Freelancer:** [Add your Freelancer.com profile link]
-*   **LinkedIn:** [Add your LinkedIn profile link]
+*   **Freelancer:** [Arshad Rahmany](https://www.freelancer.in/u/ArshadRahmany)
+*   **LinkedIn:** [Arshad Rahmany](https://www.linkedin.com/in/arshad-rahmany-7293aa2a9/)
